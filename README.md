@@ -71,6 +71,6 @@ Official PEMS data access: [https://pems.dot.ca.gov/](https://pems.dot.ca.gov/)
 
 - Seattle. Download links and details: [https://github.com/zhiyongc/Seattle-Loop-Data](https://github.com/zhiyongc/Seattle-Loop-Data)
 
-Pre-processed datasets and additional details can be found at: [https://handle.test.datacite.org/10.5072/zenodo.472877](https://handle.test.datacite.org/10.5072/zenodo.472877)  
+**Pre-processed datasets** and additional details can be found at: https://doi.org/10.5281/zenodo.19149017
 
 For dataset schema and variable details, see [`data/dataset/Data_Description.md`](./data/dataset/Data_Description.md).
